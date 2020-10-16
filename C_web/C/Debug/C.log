@@ -1,0 +1,40 @@
+﻿  webserver.cpp
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(78,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(80,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(82,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(84,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(86,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(94,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(96,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(98,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(100,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(102,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(104,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(112,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(114,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(116,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(166,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : 参见“stricmp”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(194,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(198,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(203,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : 参见“stricmp”的声明
+D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\webserver.cpp(219,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : 参见“stricmp”的声明
+  C.vcxproj -> D:\StudyCollection\大四上\计网课设\实验报告\网络编程\实验2_web服务器\c\Debug\C.exe
