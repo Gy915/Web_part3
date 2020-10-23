@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Online Calculator</title>
+        <style>
+            .class1{
+                text-align:center
+            }
+        </style>
+    </head>
+    <body>
+        <div class = "class1">
+            <h1>Online Calculator</h1>
+            <h2>Please at lease input two number:</h2>
+            <form method="post" action="./test.py">
+                <input type="number" size="15" name="num1" placeholder="Input a number">
+                <select name="sign">
+                    <option value = "add">+</option>
+                    <option value = "sub">-</option>
+                    <option value = "mul">*</option>
+                    <option value = "div">/</option>
+                </select>
+                <input type="number" size="15" name="num2" placeholder="Input a number"> =
+                <input type="submit" value="result">
+            </form>
+        </div>
+    </body>
+</html>
